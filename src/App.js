@@ -8,7 +8,7 @@ export function App(){
                 <h1>Movies</h1>
             </header>
             <main>
-                <Movd>
+                <MovieGrid></MovieGrid>
             </main>
         </>
     );
